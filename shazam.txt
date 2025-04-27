@@ -1,0 +1,12 @@
+{
+    "matches": [],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1974451955,
+    "timezone": "Europe/Moscow",
+    "tagid": "CC25F9A7-E006-4A84-AF7A-D47E080D0BD2",
+    "qid": "8224486912861857936",
+    "cid": 6209879877,
+    "mid": 173281
+}
