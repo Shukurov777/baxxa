@@ -3,7 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$token = defined('BOT_TOKEN') ? BOT_TOKEN : "6966200328:AAGJL3R6JPIJFJ_0WzOrQSuaBudULOe9fPc";
+$token = defined('BOT_TOKEN') ? BOT_TOKEN : "";
 
 
 
